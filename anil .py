@@ -1,4 +1,4 @@
-#ENCODED BY : DEVIL BRAND XWD
+#ENCODED BY : ANIL BRAND XWD
 #ENCRYPTION : Py3 ZLIB
 #GITHUB : https://github.com/DEVIL-FYTER-KING
 #----------------------------------------------
